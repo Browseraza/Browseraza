@@ -1,2 +1,2 @@
 # Browseraza
-The readme repository.
+This repository contains organization frontend configuration.
